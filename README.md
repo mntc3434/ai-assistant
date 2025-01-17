@@ -1,4 +1,3 @@
 # ai-assistant
 this is only backend 
-using python
-and aip from google 
+using python and api from google for ai
