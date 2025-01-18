@@ -1,3 +1,3 @@
 # ai-assistant
 this is only backend 
-using python and api from google for ai
+using python and api from google gemini for ai integration 
